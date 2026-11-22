@@ -1,2 +1,2 @@
-# au-foto
-pour moi
+# foto
+pour my alternative universe
